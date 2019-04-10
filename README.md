@@ -15,4 +15,9 @@ In this project a demo for indexing using b+ trees is created where it creates t
 
 # Outputs: 
 
+![output 1](out1.png)
+
+![output 2](out2.png)
+
+![output 3](out3.png)
 
